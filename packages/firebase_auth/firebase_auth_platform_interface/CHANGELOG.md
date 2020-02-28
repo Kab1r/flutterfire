@@ -1,10 +1,10 @@
 ## 1.1.7
 
-* Use package:plugin_platform_interface
+- Use package:plugin_platform_interface
 
 ## 1.1.6
 
-* Make the pedantic dev_dependency explicit.
+- Make the pedantic dev_dependency explicit.
 
 ## 1.1.5
 
@@ -26,8 +26,8 @@
 
 ## 1.1.1
 
-- Fixed crash when platform returns an auth result where `additionalUserInfo`
-  is not provided.
+- Fixed crash when platform returns an auth result where `additionalUserInfo` is
+  not provided.
 
 ## 1.1.0
 
